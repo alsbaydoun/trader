@@ -1,0 +1,9 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+prometheus-client==0.21.1
+httpx==0.28.1
+python-json-logger==3.2.1
+tzdata==2025.2
+MetaTrader5==5.0.6147; sys_platform == "win32"

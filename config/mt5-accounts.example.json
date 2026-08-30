@@ -1,0 +1,18 @@
+{
+  "active_account_id": "justmarkets-example",
+  "accounts": [
+    {
+      "id": "justmarkets-example",
+      "provider": "JustMarkets",
+      "login": "0000000000",
+      "server": "JustMarkets-Live",
+      "account_type": "Standard",
+      "terminal_path": "C:\\Program Files\\JustMarkets MetaTrader 5\\terminal64.exe",
+      "symbol_map": {
+        "XAUUSD": "XAUUSD.m",
+        "XAGUSD": "XAGUSD.m",
+        "BTCUSD": "BTCUSD.m"
+      }
+    }
+  ]
+}

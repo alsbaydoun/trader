@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+.env
+.env.local
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+coverage/
+.DS_Store
+*.log
+data/
+tmp/
